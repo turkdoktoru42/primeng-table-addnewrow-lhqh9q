@@ -3,7 +3,20 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "zone.js": "^0.12.0"
+    "@angular/animations": "15.1.2",
+    "@angular/common": "15.1.2",
+    "@angular/compiler": "15.1.2",
+    "@angular/core": "^15.1.2",
+    "@angular/forms": "^15.1.2",
+    "@angular/platform-browser": "^15.1.2",
+    "@angular/platform-browser-dynamic": "^15.1.2",
+    "@angular/router": "^15.1.2",
+    "core-js": "^3.27.2",
+    "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
+    "primeng": "^15.1.1",
+    "rxjs": "7.8.0",
+    "zone.js": "0.12.0"
   },
   "scripts": {
     "ng": "ng",
@@ -24,15 +37,6 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~4.9.4",
-    "@angular/language-service": "~7.0.0",
-    "@types/node": "~8.9.4",
-    "@types/jasminewd2": "~2.0.3",
-    "codelyzer": "~4.5.0",
-    "jasmine-spec-reporter": "~4.2.1",
-    "karma-coverage-istanbul-reporter": "~2.0.1",
-    "protractor": "~5.4.0",
-    "ts-node": "~7.0.0",
-    "tslint": "~5.11.0"
+    "typescript": "~4.9.4"
   }
 }
